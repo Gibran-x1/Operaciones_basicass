@@ -250,5 +250,5 @@ Modo de uso: solo basta presionar enter o espacio para estar cambiando de imagen
 """
 
 primeraParte()
-#Segundaparte()
-#Terceraparte()
+Segundaparte()
+Terceraparte()
